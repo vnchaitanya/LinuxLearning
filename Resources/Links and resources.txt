@@ -1,3 +1,6 @@
+Linux Command Line Tutorial For Beginners: -> This is really good and easy.
+https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
+
 Python discussion videos:
 https://www.youtube.com/playlist?list=PLtBF_7SjfQ1MDR550nK__OeyQErqOSXR-
 C discussion videos:
