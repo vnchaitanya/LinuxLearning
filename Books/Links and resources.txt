@@ -1,0 +1,7 @@
+Python discussion videos:
+https://www.youtube.com/playlist?list=PLtBF_7SjfQ1MDR550nK__OeyQErqOSXR-
+C discussion videos:
+https://www.youtube.com/playlist?list=PLtBF_7SjfQ1OIzmgRHryvinSYE1UTdqno
+
+Coding Interview University -> This is really a useful resource with lots of links and useful information.
+https://github.com/jwasham/coding-interview-university
