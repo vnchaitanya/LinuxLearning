@@ -1,0 +1,19 @@
+Enable virtual technology support in BIOS support as below:
+https://www.youtube.com/watch?v=kgN8I4vgNKs
+
+
+Download link for VirtualBox:
+https://www.virtualbox.org/wiki/Downloads
+
+
+Downloading Ubuntu:
+Desktop needs Minimum of 2GB RAM and server verion needs only 512MB. Based on this decide which one you want to use.
+
+Install Ubuntu on VirtualBox:
+https://www.youtube.com/watch?v=sB_5fqiysi4
+ 
+Download Link for Ubuntu1804:
+Server version (Size 900MB):
+https://www.ubuntu.com/download/server
+Desktop version (Size 1.5 GB):
+https://www.ubuntu.com/download/desktop
